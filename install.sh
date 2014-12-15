@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -e
 
 # set up symbolic links
 ln -s ~/config/vim/vimrc ~/.vimrc
